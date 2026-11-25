@@ -1,7 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 // One Line, One Laugh — make.fun bounty u-coral-404-one-line-one-laugh-22f2c9f3
-// The program writes exactly one funny line (70 chars) to /output/entry.txt.
+// The program writes exactly one funny line (61 chars) to /output/entry.txt.
 
 const LINE = "I asked the AI to write my resignation letter; it quit first.";
 
